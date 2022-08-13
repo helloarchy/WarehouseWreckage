@@ -1362,3 +1362,369 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.13-17.43.13:309][839]LogFileHelpers: Saving map 'Main' took 0.106
 [2022.08.13-17.43.13:322][839]AssetCheck: New page: Asset Save: Main
 [2022.08.13-17.43.13:322][839]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.08.13-17.46.53:663][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.13-17.46.53:698][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.08.13-17.46.53:759][163]LogSavePackage: Moving output files for package: /Game/Main
+[2022.08.13-17.46.53:759][163]LogSavePackage: Moving '../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Saved/MainCA9F04F6425855C597762F8C0FA2F786.tmp' to '../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Content/Main.umap'
+[2022.08.13-17.46.53:766][163]LogFileHelpers: No new changes to save!
+[2022.08.13-17.46.53:766][163]LogFileHelpers: Saving map 'Main' took 0.104
+[2022.08.13-17.46.53:778][163]AssetCheck: New page: Asset Save: Main
+[2022.08.13-17.46.53:778][163]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.08.13-17.47.12:664][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.13-17.47.12:703][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.08.13-17.47.12:764][383]LogSavePackage: Moving output files for package: /Game/Main
+[2022.08.13-17.47.12:764][383]LogSavePackage: Moving '../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Saved/MainEA0724D6482DF0890EDE5FA77AFA16D4.tmp' to '../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Content/Main.umap'
+[2022.08.13-17.47.12:771][383]LogFileHelpers: No new changes to save!
+[2022.08.13-17.47.12:771][383]LogFileHelpers: Saving map 'Main' took 0.107
+[2022.08.13-17.47.12:783][383]AssetCheck: New page: Asset Save: Main
+[2022.08.13-17.47.12:784][383]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.08.13-17.47.26:564][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.13-17.47.26:599][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.08.13-17.47.26:661][989]LogSavePackage: Moving output files for package: /Game/Main
+[2022.08.13-17.47.26:662][989]LogSavePackage: Moving '../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Saved/Main88B702024115C646B277708EA9FA7707.tmp' to '../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Content/Main.umap'
+[2022.08.13-17.47.26:668][989]LogFileHelpers: No new changes to save!
+[2022.08.13-17.47.26:668][989]LogFileHelpers: Saving map 'Main' took 0.105
+[2022.08.13-17.47.26:681][989]AssetCheck: New page: Asset Save: Main
+[2022.08.13-17.47.26:681][989]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.08.13-17.49.03:805][ 93]BlueprintLog: New page: Collapse to Function
+[2022.08.13-17.49.16:240][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.13-17.49.16:279][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.08.13-17.49.16:342][568]LogSavePackage: Moving output files for package: /Game/Main
+[2022.08.13-17.49.16:343][568]LogSavePackage: Moving '../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Saved/MainB4FB76D842DF1EC75A550A8C51107F75.tmp' to '../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Content/Main.umap'
+[2022.08.13-17.49.16:350][568]LogFileHelpers: No new changes to save!
+[2022.08.13-17.49.16:350][568]LogFileHelpers: Saving map 'Main' took 0.110
+[2022.08.13-17.49.16:362][568]AssetCheck: New page: Asset Save: Main
+[2022.08.13-17.49.16:362][568]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.08.13-17.49.20:221][  6]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.13-17.49.20:227][  6]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.13-17.49.20:228][  6]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2022.08.13-17.49.20:311][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.08.13-17.49.20:312][  6]LogPlayLevel: PlayLevel: Blueprint regeneration took 84 ms (1 blueprints)
+[2022.08.13-17.49.20:312][  6]PIE: New page: PIE session: Main (13 Aug 2022, 19:49:20)
+[2022.08.13-17.49.20:350][  6]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2022.08.13-17.49.20:376][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025438s)
+[2022.08.13-17.49.20:376][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.025531s)
+[2022.08.13-17.49.20:376][  6]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.13-17.49.20:376][  6]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.13-17.49.20:376][  6]LogAIModule: Creating AISystem for world Main
+[2022.08.13-17.49.20:377][  6]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2022.08.13-17.49.20:411][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.08.13-17.49.20:412][  6]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.08.13-17.49.20:412][  6]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.13-17.49.20:412][  6]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.13-17.49.20:412][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.13-17.49.20:412][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.13-17.49.20:412][  6]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.13-17.49.20:412][  6]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.13-17.49.20:412][  6]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.13-17.49.20:412][  6]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.13-17.49.20:413][  6]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.13-17.49.20:413][  6]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.13-17.49.20:413][  6]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.13-17.49.20:415][  6]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.13-17.49.20:429][  6]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-1000XM3)
+[2022.08.13-17.49.20:429][  6]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.13-17.49.20:430][  6]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.13-17.49.20:430][  6]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.13-17.49.20:431][  6]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.08.13-17.49.20:431][  6]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.08.13-17.49.20:432][  6]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.08.13-17.49.20:432][  6]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.08.13-17.49.20:432][  6]LogInit: FAudioDevice initialized.
+[2022.08.13-17.49.20:432][  6]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2022.08.13-17.49.20:444][  6]LogLoad: Game class is 'GameModeBase'
+[2022.08.13-17.49.20:445][  6]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.20:445][  6]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.20:449][  6]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.20:449][  6]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.20:450][  6]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.20:450][  6]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.20:451][  6]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.20:451][  6]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.20:452][  6]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.20:452][  6]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.20:453][  6]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.20:453][  6]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.20:461][  6]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.20:461][  6]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.20:462][  6]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.08.13-18.49.20
+[2022.08.13-17.49.20:462][  6]LogWorld: Bringing up level for play took: 0.018311
+[2022.08.13-17.49.20:464][  6]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.08.13-17.49.20:465][  6]LogBlueprintUserMessages: [Main_C_4] Welcome to Warehouse Wreckage!
+[2022.08.13-17.49.20:465][  6]LogBlueprintUserMessages: [Main_C_4] Get ready to fire!
+[2022.08.13-17.49.20:465][  6]LogBlueprintUserMessages: [Main_C_4] 15
+[2022.08.13-17.49.20:465][  6]PIE: Server logged in
+[2022.08.13-17.49.20:466][  6]PIE: Play in editor total start time 0.239 seconds.
+[2022.08.13-17.49.21:666][133]LogBlueprintUserMessages: [BP_Projectile_C_0] BP_Projectile
+[2022.08.13-17.49.21:667][133]LogBlueprintUserMessages: [Main_C_4] 14
+[2022.08.13-17.49.21:833][153]LogBlueprintUserMessages: [BP_Projectile_C_1] BP_Projectile1
+[2022.08.13-17.49.21:833][153]LogBlueprintUserMessages: [Main_C_4] 13
+[2022.08.13-17.49.21:950][167]LogBlueprintUserMessages: [BP_Projectile_C_2] BP_Projectile2
+[2022.08.13-17.49.21:950][167]LogBlueprintUserMessages: [Main_C_4] 12
+[2022.08.13-17.49.22:092][184]LogBlueprintUserMessages: [BP_Projectile_C_3] BP_Projectile3
+[2022.08.13-17.49.22:092][184]LogBlueprintUserMessages: [Main_C_4] 11
+[2022.08.13-17.49.22:225][200]LogBlueprintUserMessages: [BP_Projectile_C_4] BP_Projectile4
+[2022.08.13-17.49.22:225][200]LogBlueprintUserMessages: [Main_C_4] 10
+[2022.08.13-17.49.22:392][220]LogBlueprintUserMessages: [BP_Projectile_C_5] BP_Projectile5
+[2022.08.13-17.49.22:392][220]LogBlueprintUserMessages: [Main_C_4] 9
+[2022.08.13-17.49.22:742][262]LogBlueprintUserMessages: [BP_Projectile_C_6] BP_Projectile6
+[2022.08.13-17.49.22:742][262]LogBlueprintUserMessages: [Main_C_4] 8
+[2022.08.13-17.49.22:917][283]LogBlueprintUserMessages: [BP_Projectile_C_7] BP_Projectile7
+[2022.08.13-17.49.22:917][283]LogBlueprintUserMessages: [Main_C_4] 7
+[2022.08.13-17.49.23:059][300]LogBlueprintUserMessages: [BP_Projectile_C_8] BP_Projectile8
+[2022.08.13-17.49.23:059][300]LogBlueprintUserMessages: [Main_C_4] 6
+[2022.08.13-17.49.23:242][322]LogBlueprintUserMessages: [BP_Projectile_C_9] BP_Projectile9
+[2022.08.13-17.49.23:242][322]LogBlueprintUserMessages: [Main_C_4] 5
+[2022.08.13-17.49.23:414][342]LogBlueprintUserMessages: [BP_Projectile_C_10] BP_Projectile10
+[2022.08.13-17.49.23:414][342]LogBlueprintUserMessages: [Main_C_4] 4
+[2022.08.13-17.49.23:654][369]LogBlueprintUserMessages: [BP_Projectile_C_11] BP_Projectile11
+[2022.08.13-17.49.23:655][369]LogBlueprintUserMessages: [Main_C_4] 3
+[2022.08.13-17.49.23:836][389]LogBlueprintUserMessages: [BP_Projectile_C_12] BP_Projectile12
+[2022.08.13-17.49.23:836][389]LogBlueprintUserMessages: [Main_C_4] 2
+[2022.08.13-17.49.24:025][410]LogBlueprintUserMessages: [BP_Projectile_C_13] BP_Projectile13
+[2022.08.13-17.49.24:025][410]LogBlueprintUserMessages: [Main_C_4] 1
+[2022.08.13-17.49.24:199][429]LogBlueprintUserMessages: [BP_Projectile_C_14] BP_Projectile14
+[2022.08.13-17.49.24:199][429]LogBlueprintUserMessages: [Main_C_4] 0
+[2022.08.13-17.49.24:363][447]LogBlueprintUserMessages: [BP_Projectile_C_15] BP_Projectile15
+[2022.08.13-17.49.24:363][447]LogBlueprintUserMessages: [Main_C_4] -1
+[2022.08.13-17.49.24:525][465]LogBlueprintUserMessages: [Main_C_4] Out of ammo!
+[2022.08.13-17.49.24:717][486]LogBlueprintUserMessages: [Main_C_4] Out of ammo!
+[2022.08.13-17.49.24:878][504]LogBlueprintUserMessages: [Main_C_4] Out of ammo!
+[2022.08.13-17.49.25:163][535]LogBlueprintUserMessages: [Main_C_4] Out of ammo!
+[2022.08.13-17.49.27:138][756]LogBlueprintUserMessages: [Main_C_4] Out of ammo!
+[2022.08.13-17.49.27:330][778]LogBlueprintUserMessages: [Main_C_4] Out of ammo!
+[2022.08.13-17.49.27:520][800]LogBlueprintUserMessages: [Main_C_4] Out of ammo!
+[2022.08.13-17.49.27:692][820]LogBlueprintUserMessages: [Main_C_4] Out of ammo!
+[2022.08.13-17.49.27:873][841]LogBlueprintUserMessages: [Main_C_4] Out of ammo!
+[2022.08.13-17.49.28:053][862]LogBlueprintUserMessages: [Main_C_4] Out of ammo!
+[2022.08.13-17.49.34:532][620]LogNet: Browse: /Game/Main
+[2022.08.13-17.49.34:532][620]LogLoad: LoadMap: /Game/Main
+[2022.08.13-17.49.34:532][620]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2022.08.13-17.49.34:533][620]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.08.13-17.49.34:535][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.13-17.49.34:593][620]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.13-17.49.34:601][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.08.13-17.49.34:604][620]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2022.08.13-17.49.34:628][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024651s)
+[2022.08.13-17.49.34:628][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.024740s)
+[2022.08.13-17.49.34:628][620]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2022.08.13-17.49.34:628][620]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.13-17.49.34:628][620]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.13-17.49.34:629][620]LogAIModule: Creating AISystem for world Main
+[2022.08.13-17.49.34:629][620]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2022.08.13-17.49.34:629][620]LogLoad: Game class is 'GameModeBase'
+[2022.08.13-17.49.34:629][620]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.34:630][620]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.34:632][620]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.34:632][620]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.34:632][620]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.34:632][620]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.34:632][620]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.34:633][620]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.34:633][620]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.34:633][620]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.34:633][620]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.34:633][620]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.34:636][620]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.34:637][620]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.49.34:641][620]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.08.13-18.49.34
+[2022.08.13-17.49.34:641][620]LogWorld: Bringing up level for play took: 0.012106
+[2022.08.13-17.49.34:643][620]LogBlueprintUserMessages: [Main_C_4] Welcome to Warehouse Wreckage!
+[2022.08.13-17.49.34:643][620]LogBlueprintUserMessages: [Main_C_4] Get ready to fire!
+[2022.08.13-17.49.34:643][620]LogBlueprintUserMessages: [Main_C_4] 15
+[2022.08.13-17.49.34:643][620]LogLoad: Took 0.110603 seconds to LoadMap(/Game/UEDPIE_0_Main)
+[2022.08.13-17.49.35:990][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.13-17.49.35:990][770]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2022.08.13-17.49.35:991][770]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.08.13-17.49.35:993][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.13-17.49.36:002][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.13-17.49.36:007][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.13-17.49.36:041][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.13-17.49.36:042][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.08.13-17.49.36:044][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.08.13-17.49.36:052][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.08.13-17.49.36:083][771]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.08.13-17.49.36:597][830]Cmd: SELECT NONE
+[2022.08.13-17.49.48:448][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.13-17.49.48:483][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.08.13-17.49.48:544][216]LogSavePackage: Moving output files for package: /Game/Main
+[2022.08.13-17.49.48:545][216]LogSavePackage: Moving '../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Saved/MainD3CF16254B71DD3AFA68509B0EC4BB9D.tmp' to '../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Content/Main.umap'
+[2022.08.13-17.49.48:551][216]LogFileHelpers: No new changes to save!
+[2022.08.13-17.49.48:551][216]LogFileHelpers: Saving map 'Main' took 0.104
+[2022.08.13-17.49.48:563][216]AssetCheck: New page: Asset Save: Main
+[2022.08.13-17.49.48:563][216]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.08.13-17.49.53:289][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.13-17.49.53:323][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.08.13-17.49.53:384][757]LogSavePackage: Moving output files for package: /Game/Main
+[2022.08.13-17.49.53:385][757]LogSavePackage: Moving '../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Saved/Main9FBE841A43D7FB1495E22BA15711E91C.tmp' to '../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Content/Main.umap'
+[2022.08.13-17.49.53:392][757]LogFileHelpers: No new changes to save!
+[2022.08.13-17.49.53:392][757]LogFileHelpers: Saving map 'Main' took 0.103
+[2022.08.13-17.49.53:405][757]AssetCheck: New page: Asset Save: Main
+[2022.08.13-17.49.53:405][757]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.08.13-17.50.50:618][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.08.13-17.50.50:725][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.13-17.50.50:759][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.08.13-17.50.50:820][975]LogSavePackage: Moving output files for package: /Game/Main
+[2022.08.13-17.50.50:821][975]LogSavePackage: Moving '../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Saved/Main06F29DCE4ABED742A5AB2EA24F0A7DB6.tmp' to '../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Content/Main.umap'
+[2022.08.13-17.50.50:827][975]LogFileHelpers: No new changes to save!
+[2022.08.13-17.50.50:828][975]LogFileHelpers: Saving map 'Main' took 0.104
+[2022.08.13-17.50.50:842][975]AssetCheck: New page: Asset Save: Main
+[2022.08.13-17.50.50:842][975]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.08.13-17.50.58:539][893]BlueprintLog: New page: Compile Main
+[2022.08.13-17.50.58:616][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.08.13-17.51.00:627][130]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.13-17.51.00:633][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.13-17.51.00:633][130]PIE: New page: PIE session: Main (13 Aug 2022, 19:51:00)
+[2022.08.13-17.51.00:633][130]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2022.08.13-17.51.00:658][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025222s)
+[2022.08.13-17.51.00:658][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.025286s)
+[2022.08.13-17.51.00:658][130]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.13-17.51.00:658][130]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.13-17.51.00:658][130]LogAIModule: Creating AISystem for world Main
+[2022.08.13-17.51.00:658][130]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2022.08.13-17.51.00:695][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.08.13-17.51.00:696][130]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.08.13-17.51.00:696][130]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.13-17.51.00:696][130]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.13-17.51.00:696][130]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.13-17.51.00:696][130]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.13-17.51.00:696][130]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.13-17.51.00:696][130]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.13-17.51.00:696][130]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.13-17.51.00:696][130]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.13-17.51.00:697][130]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.13-17.51.00:697][130]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.13-17.51.00:697][130]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.13-17.51.00:698][130]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.13-17.51.00:713][130]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-1000XM3)
+[2022.08.13-17.51.00:713][130]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.13-17.51.00:713][130]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.13-17.51.00:713][130]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.13-17.51.00:714][130]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.08.13-17.51.00:714][130]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.08.13-17.51.00:715][130]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.08.13-17.51.00:715][130]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.08.13-17.51.00:715][130]LogInit: FAudioDevice initialized.
+[2022.08.13-17.51.00:715][130]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main'.
+[2022.08.13-17.51.00:752][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.13-17.51.00:752][130]LogLoad: Game class is 'GameModeBase'
+[2022.08.13-17.51.00:753][130]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.00:753][130]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.00:757][130]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.00:757][130]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.00:758][130]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.00:758][130]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.00:758][130]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.00:758][130]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.00:759][130]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.00:759][130]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.00:760][130]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.00:760][130]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.00:768][130]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.00:768][130]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.00:769][130]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.08.13-18.51.00
+[2022.08.13-17.51.00:769][130]LogWorld: Bringing up level for play took: 0.017697
+[2022.08.13-17.51.00:771][130]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.08.13-17.51.00:772][130]LogBlueprintUserMessages: [Main_C_5] Welcome to Warehouse Wreckage!
+[2022.08.13-17.51.00:772][130]LogBlueprintUserMessages: [Main_C_5] Get ready to fire!
+[2022.08.13-17.51.00:772][130]LogBlueprintUserMessages: [Main_C_5] 15
+[2022.08.13-17.51.00:774][130]PIE: Server logged in
+[2022.08.13-17.51.00:775][130]PIE: Play in editor total start time 0.142 seconds.
+[2022.08.13-17.51.00:788][130]LogViewport: Scene viewport resized to 1310x920, mode Windowed.
+[2022.08.13-17.51.02:321][248]LogBlueprintUserMessages: [BP_Projectile_C_0] BP_Projectile_C_0
+[2022.08.13-17.51.02:321][248]LogBlueprintUserMessages: [Main_C_5] 14
+[2022.08.13-17.51.03:261][329]LogBlueprintUserMessages: [BP_Projectile_C_1] BP_Projectile_C_1
+[2022.08.13-17.51.03:261][329]LogBlueprintUserMessages: [Main_C_5] 13
+[2022.08.13-17.51.04:020][396]LogBlueprintUserMessages: [BP_Projectile_C_2] BP_Projectile_C_2
+[2022.08.13-17.51.04:020][396]LogBlueprintUserMessages: [Main_C_5] 12
+[2022.08.13-17.51.05:021][484]LogBlueprintUserMessages: [BP_Projectile_C_3] BP_Projectile_C_3
+[2022.08.13-17.51.05:021][484]LogBlueprintUserMessages: [Main_C_5] 11
+[2022.08.13-17.51.06:483][611]LogBlueprintUserMessages: [BP_Projectile_C_4] BP_Projectile_C_4
+[2022.08.13-17.51.06:483][611]LogBlueprintUserMessages: [Main_C_5] 10
+[2022.08.13-17.51.07:392][690]LogBlueprintUserMessages: [BP_Projectile_C_5] BP_Projectile_C_5
+[2022.08.13-17.51.07:392][690]LogBlueprintUserMessages: [Main_C_5] 9
+[2022.08.13-17.51.08:401][773]LogBlueprintUserMessages: [BP_Projectile_C_6] BP_Projectile_C_6
+[2022.08.13-17.51.08:401][773]LogBlueprintUserMessages: [Main_C_5] 8
+[2022.08.13-17.51.09:861][891]LogBlueprintUserMessages: [BP_Projectile_C_7] BP_Projectile_C_7
+[2022.08.13-17.51.09:861][891]LogBlueprintUserMessages: [Main_C_5] 7
+[2022.08.13-17.51.10:442][937]LogBlueprintUserMessages: [BP_Projectile_C_8] BP_Projectile_C_8
+[2022.08.13-17.51.10:442][937]LogBlueprintUserMessages: [Main_C_5] 6
+[2022.08.13-17.51.11:974][ 55]LogBlueprintUserMessages: [BP_Projectile_C_9] BP_Projectile_C_9
+[2022.08.13-17.51.11:974][ 55]LogBlueprintUserMessages: [Main_C_5] 5
+[2022.08.13-17.51.13:781][193]LogBlueprintUserMessages: [BP_Projectile_C_10] BP_Projectile_C_10
+[2022.08.13-17.51.13:781][193]LogBlueprintUserMessages: [Main_C_5] 4
+[2022.08.13-17.51.16:366][397]LogBlueprintUserMessages: [BP_Projectile_C_11] BP_Projectile_C_11
+[2022.08.13-17.51.16:366][397]LogBlueprintUserMessages: [Main_C_5] 3
+[2022.08.13-17.51.18:245][550]LogBlueprintUserMessages: [BP_Projectile_C_12] BP_Projectile_C_12
+[2022.08.13-17.51.18:245][550]LogBlueprintUserMessages: [Main_C_5] 2
+[2022.08.13-17.51.21:599][819]LogBlueprintUserMessages: [BP_Projectile_C_13] BP_Projectile_C_13
+[2022.08.13-17.51.21:599][819]LogBlueprintUserMessages: [Main_C_5] 1
+[2022.08.13-17.51.25:777][158]LogBlueprintUserMessages: [BP_Projectile_C_14] BP_Projectile_C_14
+[2022.08.13-17.51.25:777][158]LogBlueprintUserMessages: [Main_C_5] 0
+[2022.08.13-17.51.28:736][398]LogBlueprintUserMessages: [BP_Projectile_C_15] BP_Projectile_C_15
+[2022.08.13-17.51.28:736][398]LogBlueprintUserMessages: [Main_C_5] -1
+[2022.08.13-17.51.33:235][776]LogBlueprintUserMessages: [Main_C_5] Out of ammo! Reloading level in 10 seconds...
+[2022.08.13-17.51.33:767][822]LogBlueprintUserMessages: [Main_C_5] Out of ammo! Reloading level in 10 seconds...
+[2022.08.13-17.51.33:989][841]LogBlueprintUserMessages: [Main_C_5] Out of ammo! Reloading level in 10 seconds...
+[2022.08.13-17.51.34:212][860]LogBlueprintUserMessages: [Main_C_5] Out of ammo! Reloading level in 10 seconds...
+[2022.08.13-17.51.37:391][129]LogBlueprintUserMessages: [Main_C_5] Out of ammo! Reloading level in 10 seconds...
+[2022.08.13-17.51.37:588][146]LogBlueprintUserMessages: [Main_C_5] Out of ammo! Reloading level in 10 seconds...
+[2022.08.13-17.51.37:748][160]LogBlueprintUserMessages: [Main_C_5] Out of ammo! Reloading level in 10 seconds...
+[2022.08.13-17.51.37:929][176]LogBlueprintUserMessages: [Main_C_5] Out of ammo! Reloading level in 10 seconds...
+[2022.08.13-17.51.38:092][190]LogBlueprintUserMessages: [Main_C_5] Out of ammo! Reloading level in 10 seconds...
+[2022.08.13-17.51.43:238][633]LogNet: Browse: /Game/Main
+[2022.08.13-17.51.43:238][633]LogLoad: LoadMap: /Game/Main
+[2022.08.13-17.51.43:238][633]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2022.08.13-17.51.43:238][633]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.08.13-17.51.43:241][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.13-17.51.43:306][633]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.13-17.51.43:312][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.08.13-17.51.43:315][633]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2022.08.13-17.51.43:340][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025142s)
+[2022.08.13-17.51.43:340][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.025227s)
+[2022.08.13-17.51.43:340][633]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main'.
+[2022.08.13-17.51.43:340][633]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.13-17.51.43:340][633]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.13-17.51.43:340][633]LogAIModule: Creating AISystem for world Main
+[2022.08.13-17.51.43:340][633]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2022.08.13-17.51.43:340][633]LogLoad: Game class is 'GameModeBase'
+[2022.08.13-17.51.43:341][633]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.43:341][633]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.43:343][633]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.43:343][633]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.43:343][633]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.43:343][633]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.43:344][633]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.43:344][633]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.43:344][633]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.43:344][633]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.43:345][633]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.43:345][633]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.43:348][633]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.43:348][633]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.08.13-17.51.43:353][633]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.08.13-18.51.43
+[2022.08.13-17.51.43:353][633]LogWorld: Bringing up level for play took: 0.012611
+[2022.08.13-17.51.43:355][633]LogBlueprintUserMessages: [Main_C_5] Welcome to Warehouse Wreckage!
+[2022.08.13-17.51.43:355][633]LogBlueprintUserMessages: [Main_C_5] Get ready to fire!
+[2022.08.13-17.51.43:355][633]LogBlueprintUserMessages: [Main_C_5] 15
+[2022.08.13-17.51.43:355][633]LogLoad: Took 0.117185 seconds to LoadMap(/Game/UEDPIE_0_Main)
+[2022.08.13-17.51.45:020][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.13-17.51.45:020][780]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2022.08.13-17.51.45:021][780]LogSlate: Window 'WarehouseWreckage Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.08.13-17.51.45:026][780]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.08.13-17.51.45:028][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.13-17.51.45:038][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.13-17.51.45:044][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.13-17.51.45:078][780]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.13-17.51.45:080][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.08.13-17.51.45:081][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.08.13-17.51.45:091][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.08.13-17.51.45:104][781]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.08.13-17.52.15:551][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.13-17.52.15:590][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.08.13-17.52.15:654][422]LogSavePackage: Moving output files for package: /Game/Main
+[2022.08.13-17.52.15:654][422]LogSavePackage: Moving '../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Saved/Main45BCF64649D12C2790E90DB7EABB334B.tmp' to '../../../../../../Users/hardy/_dev/gamedev/WarehouseWreckage/WarehouseWreckage/Content/Main.umap'
+[2022.08.13-17.52.15:661][422]LogFileHelpers: No new changes to save!
+[2022.08.13-17.52.15:661][422]LogFileHelpers: Saving map 'Main' took 0.111
+[2022.08.13-17.52.15:672][422]AssetCheck: New page: Asset Save: Main
+[2022.08.13-17.52.15:672][422]LogContentValidation: Display: Validating World /Game/Main.Main
